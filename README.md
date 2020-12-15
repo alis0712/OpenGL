@@ -12,4 +12,10 @@ Feel free to browse through some of my projects done in OpenGL.
 
 ![Project2_Final_Output](https://user-images.githubusercontent.com/62857780/102260421-6b5f4680-3ede-11eb-8151-7d026ce102de.JPG)
 
-~ The third project was to create a 3D face using the concept of texture mapping. An image file along with vertices and points text files were taken in as inputs, the resulting output is provided below: 
+~ The third project was to create a 3D face using the concept of texture mapping. An image file along with vertices and points text files were taken in as inputs, the resulting outputs are provided below: 
+
+![mesh_output](https://user-images.githubusercontent.com/62857780/102261030-1cfe7780-3edf-11eb-83a2-37eba79e2a26.JPG)
+
+![texture_output](https://user-images.githubusercontent.com/62857780/102261014-16700000-3edf-11eb-8b61-2577570e79bb.JPG)
+
+~ The third project was to animate the 3D face created in project 3 using the concept of linear interpolation. the resulting output video with animations such surprise, anger, disgust, etc. is provided below: 

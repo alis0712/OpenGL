@@ -18,4 +18,4 @@ Feel free to browse through some of my projects done in OpenGL.
 
 ![texture_output](https://user-images.githubusercontent.com/62857780/102261014-16700000-3edf-11eb-8b61-2577570e79bb.JPG)
 
-~ The third project was to animate the 3D face created in project 3 using the concept of linear interpolation. the resulting output video with animations such surprise, anger, disgust, etc. is provided below: 
+~ The fourth project was to animate the 3D face created in project 3 using the concept of linear interpolation. the resulting output video with animations such surprise, anger, disgust, etc. is provided below: 
